@@ -1,1 +1,3 @@
-# ios-AnyAnalytics
+# AnyAnalyticsSPM
+
+A description of this package.
